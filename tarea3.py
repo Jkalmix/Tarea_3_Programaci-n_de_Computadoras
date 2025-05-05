@@ -185,3 +185,6 @@ if discriminante >= 0:
 # Si el discriminante es menor que 0, no hay soluciones reales.
 elif discriminante < 0:
   print("La ecuación no tiene soluciones reales (tiene soluciones complejas).")
+
+
+  #FIN
